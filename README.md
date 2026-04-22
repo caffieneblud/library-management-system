@@ -16,7 +16,7 @@ Track issue date
 Specify number of days the book is issued for
 ##Return & Fine Calculation
 Validates if the book is returned within the allowed time
-Automatically calculates fine for late returns based on rules:
+Automatically calculates fine for late returns based on rules:  
 Week 1: ₹10/day/book  
 Week 2: ₹20/day/book  
 Week 3: ₹60/day/book  
