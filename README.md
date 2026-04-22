@@ -1,11 +1,11 @@
 # library Management System 
 
-This project is an enhanced version of a basic Library Management System developed in class. The system has been improved to use more efficient data handling and includes additional real-world library features such as book issuing, return tracking, and fine calculation.
+*This project is an enhanced version of a basic Library Management System developed in class. The system has been improved to use more efficient data handling and includes additional real-world library features such as book issuing, return tracking, and fine calculation.*
 
 ## Project Objectives
-Modify the existing system to use a dictionary for managing book records
+* the existing system to use a dictionary for managing book records
 Improve user interaction and output clarity
-Implement practical library operations like issuing and returning books 
+Implement practical library operations like issuing and returning books *
 ## Features
 Book Management
 Store and manage book records using dictionaries
